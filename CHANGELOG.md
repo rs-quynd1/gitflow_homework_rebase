@@ -1,3 +1,4 @@
+[rs-06] Remove NAL content on sample file [PR#8](https://github.com/rs-quynd1/gitflow_homework_rebase/pull/8)
 [rs-04] Remove EST content on sample file [PR#4](https://github.com/rs-quynd1/gitflow_homework_rebase/pull/4)
 [rs-01] Implement add EST content to sample file [PR#3](https://github.com/rs-quynd1/gitflow_homework_rebase/pull/3)
 [rs-03] Implement add NAL content to sample file [PR#2](https://github.com/rs-quynd1/gitflow_homework_rebase/pull/2)
